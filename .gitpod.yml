@@ -1,2 +1,2 @@
-image: jekyll/jekyll:latest
-
+image: 
+  file: .env-files/Dockerfile.github
