@@ -34,7 +34,7 @@ Housing in Leuven can be competitive, especially at the beginning of the academi
     * [Zimmo - only dutch or french](https://www.zimmo.be/nl/?utm_source=google&utm_medium=cpc&utm_campaign=[BENL]_Brand&gad_source=1&gclid=Cj0KCQjwqIm_BhDnARIsAKBYcmslh72Vnto9CIeAN_MRRSoyjUwzm9pccb_ZpiNcIhF2_lXgnvhkR7EaAh-ZEALw_wcB#)
 * **Facebook Groups**:
     * [Leuven Cohousing](https://www.facebook.com/groups/597758220333174/)
-    * [Te Huur Leuven - 'To rent Leuven'](https://www.facebook.com/groups/169303679781930/)
+    * [Te Huur Leuven - 'To rent Leuven'](https://www.facebook.com/groups/357365197757461)
 
 ### Neighborhoods to Consider
 
