@@ -1,0 +1,14 @@
+{
+  "name": "Python Development",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.9",
+  "features": {
+    "python": "latest"
+  },
+  "settings": {
+    "python.pythonPath": "/usr/local/bin/python"
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "extensions": [
+    "ms-python.python",
+  ]
+}
