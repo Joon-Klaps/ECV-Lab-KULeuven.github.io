@@ -1,5 +1,5 @@
-### Page template
+# Thematic programmes
 
-This page is a work in progress!
+An overview can be seen here: [KU Leuven biomedical sciences thematic programmes](https://gbiomed.kuleuven.be/english/phd/thematic-programmes)
 
-Come back later to check on it, or [contribute](https://github.com/ECV-Lab-KULeuven/ECV-Lab-KULeuven.github.io).
+From our own experiences, public health is a good thematic programme but has strict requirements in order to graduate. Most of us are in [Immunology and Microbiology](https://gbiomed.kuleuven.be/english/phd/PhD_Researchers/thematic_programmes/immunology_microbiology.html).

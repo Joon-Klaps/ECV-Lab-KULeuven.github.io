@@ -1,5 +1,12 @@
-### Page template
+# People
 
-This page is a work in progress!
+## Lab site
+Think [the site](https://rega.kuleuven.be/cev/ecv/staff-members) is updated every 10 years.
 
-Come back later to check on it, or [contribute](https://github.com/ECV-Lab-KULeuven/ECV-Lab-KULeuven.github.io).
+## Labs of the REGA
+This is actually updated regulary.
+
+https://rega.kuleuven.be/labs
+
+
+

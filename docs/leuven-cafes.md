@@ -1,7 +1,7 @@
 # Cafés
 <!--
  WHEN UPDATED, please also update the map.md file with the new locations.
- example: 
+ example:
  NAME,type,LAT,LON,URL
  Malz,bar,50.8799407,4.6979099,https://maps.app.goo.gl/9fJxF2T5ZEFBVTpy7
 
@@ -13,7 +13,7 @@ Some people in the lab are zombies without good coffee, if you are like us, you'
 -   [MOK](https://maps.app.goo.gl/eZXbpKyq2k8nBPR88)
 -   [Onan](https://maps.app.goo.gl/TMVsfv19AoWzHBFe6) (they serve Fairtrade coffee!)
 
-Sometimes you work from cafés, we recommend the ones below: 
+Sometimes you work from cafés, we recommend the ones below:
 
 -   [Noir](https://maps.app.goo.gl/68XEiZgXw737j6XVA)
 -   [Swartehond](https://maps.app.goo.gl/oQJ6KcJ73rHFh4xr5)

@@ -5,15 +5,59 @@ site_url: https://ecv-lab-kuleuven.github.io/
 
 nav:
     - Home: index.md
-    - Recently edited:
-          - moving-to-leuven-starter-guide.md
-          - bioconda.md
-          - colors.md
-          - leuven-bars.md
-          - leuven-cafes.md
-          - beagle-instll-hpc.md
-    - Pages:
-          - ...
+    - Practical:
+        - Moving to Leuven: moving-to-leuven-starter-guide.md
+        - City Registration:
+            - Registration Checklist: city-registration-checklist.md
+            - City Hall Guide: leuven-city-hall-getting-started.md
+            - KU Leuven Registration: registration-with-ku-leuven.md
+        - Getting Around: getting-around.md
+        - Lab Facilities:
+            - Lab Structure: lab-structure.md
+            - Parking & Bicycle Storage: rega-parking-and-bicycle-storage.md
+            - Helpful People: rega-helpful-folks.md
+
+    - PhD Resources:
+        - PhD Timeline: phd-timeline.md
+        - Choosing a Thematic Programme: choosing-a-thematic-programme.md
+        - FWO Application: fwo-application.md
+        - Perks of the PhD: perks-of-the-phd.md
+
+    - Phylogenetics:
+        - Introduction to Phylogenetics: intro-to-phylogenetics.md
+        - How to Read a Tree: how-to-read-a-tree.md
+        - Bayesian Phylogenetics: bayesian-phylogenetics.md
+        - Maximum Likelihood Phylogenetics: maximum-likelihood-phylogenetics.md
+        - Coalescent: coalescent.md
+        - Phylogeography: phylogeography.md
+        - Plotting Trees: plotting-trees.md
+
+    - BEAST Tools:
+        - How to Compile BEAST: how-to-compile-beast.md
+        - Running BEAST: running-beast.md
+        - BEAGLE (HPC): beagle-instll-hpc.md
+        - BEAGLE (Local): beagle-instll-local.md
+        - LogCombiner: log-combiner.md
+        - TreeAnnotator: tree-annotator.md
+        - Tracer: tracer.md
+        - TempEst: tempest.md
+
+    - Technical Guides:
+        - HPC Getting Started: hpc-getting-started.md
+        - Colors: colors.md
+        - GitHub Primer: github-primer.md
+        - Docker: docker.md
+        - Singularity: singularity.md
+        - Bioconda: bioconda.md
+
+    - Social:
+        - Leuven Bars: leuven-bars.md
+        - Leuven Cafes: leuven-cafes.md
+        - Leuven Restaurants: leuven-restaurants.md
+        - Lab Recreation: recreation-with-the-lab.md
+
+    - About:
+        - People: people.md
 
 theme:
     name: material
@@ -47,11 +91,15 @@ theme:
         - navigation.sections
         - navigation.prune
         - navigation.top
+        - navigation.tabs
+        - navigation.tabs.sticky
         - navigation.tracking
         - search.share
         - search.suggest
         - search.highlight
         - toc.follow
+        - content.footnote.tooltips
+        #- navigation.footer
 
 extra_css:
     - stylesheets/extra.css
