@@ -5,6 +5,10 @@
 -   Articles may be empty or missing!
 -   Thank you for being patient with us!
 
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWcycnV4ZjBibXZra3BnZXA4OW8xemV3aDlnbDF0Nm50MjdmeDVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHOF8pfPZOt9p018zw/giphy.gif">
+</p>
+
 ## Sitemap
 
 -   Practical
