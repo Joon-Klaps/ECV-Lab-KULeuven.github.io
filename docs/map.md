@@ -1,5 +1,5 @@
 <!--
- example: 
+ example:
  NAME,type,LAT,LON,URL
  Malz,bar,50.8799407,4.6979099,https://maps.app.goo.gl/9fJxF2T5ZEFBVTpy7
 
