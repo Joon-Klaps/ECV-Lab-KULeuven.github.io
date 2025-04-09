@@ -11,7 +11,7 @@ Cycling is the most popular way to get around Leuven. KU Leuven offers bicycle r
 ### Public Transportation
 
 * **De Lijn**: Local buses serve the city and surrounding areas. Consider getting a [Buzzy Pazz or Omnipas](https://www.delijn.be/en/tickets/) for regular travel.
-* As a student you can also get a student buss pass. This pass is only valid for bus lines within the Leuven area, outside the area you still need to buy an extra ticket. You can request your bus pass while registering or online at the KULeuven site (https://www.kuleuven.be/transportation/travelling-by-bus-in-leuven). A student bus pass costs €25/year.
+* As a student you can also get a student buss pass. This pass is only valid for bus lines within the Leuven area, outside the area you still need to buy an extra ticket. You can request your bus pass while registering or online at the [KULeuven site](https://www.kuleuven.be/transportation/travelling-by-bus-in-leuven). A student bus pass costs €25/year.
 * **NMBS/SNCB**: Trains connect Leuven to other Belgian cities. Leuven's train station is centrally located. Tickets can be purchased at the station or online 
 They have pretty good [website](https://www.belgiantrain.be/nl) and app. If you are not travelling at peak hours, arrival times are pretty reliable.
 
