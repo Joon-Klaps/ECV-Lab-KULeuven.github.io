@@ -55,7 +55,7 @@ scontrol show node <node_name>
 | gpu_a100                | 72    | 512 GB     | 4× NVIDIA A100 (80 GB)      | 72 h     |
 | gpu_h100                | 64    | 703 GB     | 4× NVIDIA H100 (80 GB HBM3) | 72 h     |
 | gpu_a100_debug          | 64    | 512 GB     | 1× NVIDIA A100 (80 GB)      | 1 h      |
-| interactive             | 64    | 512 GB     | 1× NVIDIA A100 (80 GB)      | 72 h     |
+| interactive             | 8     | 512 GB     | 1× NVIDIA A100 (80 GB)      | 72 h     |
 
 > - Numbers are for 1 node. All nodes have 960 GB SSD local disk.
 > - `hugemem` memories are not checked for overhead - will likely be less
